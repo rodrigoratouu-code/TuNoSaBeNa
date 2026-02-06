@@ -225,10 +225,6 @@
   <script>
     const videos = [
       "lAwl0db03pA",
-      "BbgmPbrLNTI",
-      "vHJEaVyDrRk",
-      "1cRmjpBBn7s",
-      "Lms0IAqYXHU"
     ];
 
     const videoGrid = document.getElementById("videoGrid");
