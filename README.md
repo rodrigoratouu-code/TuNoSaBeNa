@@ -176,9 +176,6 @@
   <header>
   <div class="logo">
     <div class="logo-svg">
-      
-      
-
 <svg inkscape:export-filename="C:\Users\LURDES\Downloads\Bad Bunny\logo 2.png" inkscape:export-xdpi="278.00699" inkscape:export-ydpi="278.00699" inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)" sodipodi:docname="LOGO ARIAS SERVICE4.svg" version="1.1" viewBox="0 0 336 192" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
 <defs>
 <inkscape:path-effect apply_no_weight="true" apply_with_weight="true" effect="bspline" helper_size="0" is_visible="true" lpeversion="1" only_selected="false" steps="2" weight="33.333333"/>
@@ -208,7 +205,7 @@
 </svg>
 
 
-    </div>
+  </div>
 
   <h1 class="titulo-principal">TuNoSaBeNa</h1>
 
