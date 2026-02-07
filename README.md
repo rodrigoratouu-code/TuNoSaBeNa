@@ -177,16 +177,7 @@
   <div class="logo">
     <div class="logo-svg">
 <svg inkscape:export-filename="C:\Users\LURDES\Downloads\Bad Bunny\logo 2.png" inkscape:export-xdpi="278.00699" inkscape:export-ydpi="278.00699" inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)" sodipodi:docname="LOGO ARIAS SERVICE4.svg" version="1.1" viewBox="0 0 336 192" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
-<defs>
-<inkscape:path-effect apply_no_weight="true" apply_with_weight="true" effect="bspline" helper_size="0" is_visible="true" lpeversion="1" only_selected="false" steps="2" weight="33.333333"/>
-<inkscape:path-effect apply_no_weight="true" apply_with_weight="true" effect="bspline" helper_size="0" is_visible="true" lpeversion="1" only_selected="false" steps="2" weight="33.333333"/>
-<inkscape:path-effect apply_no_weight="true" apply_with_weight="true" effect="bspline" helper_size="0" is_visible="true" lpeversion="1" only_selected="false" steps="2" weight="33.333333"/>
-<inkscape:path-effect apply_no_weight="true" apply_with_weight="true" effect="bspline" helper_size="0" is_visible="true" lpeversion="1" only_selected="false" steps="2" weight="33.333333"/>
-<inkscape:path-effect apply_no_weight="true" apply_with_weight="true" effect="bspline" helper_size="0" is_visible="true" lpeversion="1" only_selected="false" steps="2" weight="33.333333"/>
-<inkscape:path-effect apply_no_weight="true" apply_with_weight="true" effect="bspline" helper_size="0" is_visible="true" lpeversion="1" only_selected="false" steps="2" weight="33.333333"/>
-<inkscape:path-effect apply_no_weight="true" apply_with_weight="true" effect="bspline" helper_size="0" is_visible="true" lpeversion="1" only_selected="false" steps="2" weight="33.333333"/>
-<inkscape:path-effect apply_no_weight="true" apply_with_weight="true" effect="bspline" helper_size="0" is_visible="true" lpeversion="1" only_selected="false" steps="2" weight="33.333333"/>
-</defs>
+
 <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="g14" inkscape:cx="70.598081" inkscape:cy="102.2354" inkscape:deskcolor="#d1d1d1" inkscape:guide-bbox="true" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:showpageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="1.7068452" pagecolor="#ffffff" showgrid="false" showguides="true">
 <sodipodi:guide inkscape:locked="false" orientation="0,-1" position="196.16018,83.04514"/>
 <sodipodi:guide inkscape:locked="false" orientation="0,-1" position="202.99575,119.19081"/>
@@ -203,21 +194,13 @@
 <text transform="scale(1.1828883 .84538835)" x="5.8197217" y="215.26418" fill="#ece800" font-family="Impact" font-size="47.858px" stroke="#000000" stroke-width="1.4819" inkscape:export-filename="C:\Users\LURDES\Downloads\Bad Bunny\logo 1.png" inkscape:export-xdpi="278.00699" inkscape:export-ydpi="278.00699" xml:space="preserve"><tspan x="5.8197217" y="215.26418" stroke-width="1.4819" sodipodi:role="line">ARIAS SERVICE</tspan></text>
 </g>
 </svg>
-
-
   </div>
-
   <h1 class="titulo-principal">TuNoSaBeNa</h1>
-
-
 </header>
-
   <section id="videos">
     <h2>🎬 VideosRodri recomendados</h2>
     <div class="video-grid" id="videoGrid"></div>
   </section>
-
-
 
   <script>
     const videos = [
