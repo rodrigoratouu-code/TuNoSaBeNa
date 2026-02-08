@@ -216,6 +216,7 @@
       const div = document.createElement("div");
       div.className = "video";
       div.innerHTML = `
+        <div class="video-title">Escribe aquí el título</div>
         <img src="https://img.youtube.com/vi/${id}/hqdefault.jpg" alt="Video preview">
         <div class="play-button">▶️</div>
       `;
