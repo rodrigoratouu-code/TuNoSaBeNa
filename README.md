@@ -91,6 +91,15 @@
       transform: scale(1.03);
       box-shadow: 0 4px 20px rgba(0,0,0,0.1);
     }
+    .video-title {
+      padding: 0.8em;
+      background: rgba(255, 255, 255, 0.3);
+      text-align: center;
+      font-weight: 600;
+      color: #fff;
+      min-height: 1.5em;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    }
     .video img {
       width: 100%;
       display: block;
