@@ -26,10 +26,7 @@
   height: auto;
   animation: latido 2.5s ease-in-out infinite;
   filter: drop-shadow(0 0 10px rgba(255,255,255,0.5));
-}
-
-
-      
+} 
     header {
       position: sticky;
       top: 0;
@@ -47,8 +44,6 @@
       text-align: center;
     }
     header ul { list-style: none; padding: 0; margin-top: 1em; display: flex; gap: 1.5em; justify-content: center; } header ul li a { color: #fff; text-decoration: none; font-weight: 600; transition: opacity 0.2s ease; } header ul li a:hover { opacity: 0.7; }
-
-    
     h1 {
       color: #fff;
       font-size: 2.5em;
