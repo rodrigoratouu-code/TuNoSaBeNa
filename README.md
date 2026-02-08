@@ -180,13 +180,7 @@
   <header>
   <div class="logo">
     <div class="logo-svg">
-<svg inkscape:export-filename="C:\Users\LURDES\Downloads\Bad Bunny\logo 2.png" inkscape:export-xdpi="278.00699" inkscape:export-ydpi="278.00699" inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)" sodipodi:docname="LOGO ARIAS SERVICE4.svg" version="1.1" viewBox="0 0 336 192" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
-
-<sodipodi:namedview bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="g14" inkscape:cx="70.598081" inkscape:cy="102.2354" inkscape:deskcolor="#d1d1d1" inkscape:guide-bbox="true" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:showpageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="1.7068452" pagecolor="#ffffff" showgrid="false" showguides="true">
-<sodipodi:guide inkscape:locked="false" orientation="0,-1" position="196.16018,83.04514"/>
-<sodipodi:guide inkscape:locked="false" orientation="0,-1" position="202.99575,119.19081"/>
-<sodipodi:guide inkscape:locked="false" orientation="0,-1" position="213.2491,105.20896"/>
-</sodipodi:namedview>
+<svg 
 <g fill="#ece800" stroke="#000" stroke-width="5.32763" inkscape:groupmode="layer" inkscape:label="Image 1">
 <path d="m40.836545 111.32457c30.356664-34.918548 91.060895-105.0796173 91.060895-105.0796173l52.10143 56.5385763h-56.22932l-33.207216 48.874471z" inkscape:export-filename="C:\Users\LURDES\Downloads\Bad Bunny\logo 1.png" inkscape:export-xdpi="278.00699" inkscape:export-ydpi="278.00699" sodipodi:nodetypes="cccccc"/>
 <path d="m162.9914 93.546757 46.40032-0.05171 45.99317 52.432783-49.30615-0.31743z" inkscape:export-filename="C:\Users\LURDES\Downloads\Bad Bunny\logo 1.png" inkscape:export-xdpi="278.00699" inkscape:export-ydpi="278.00699" sodipodi:nodetypes="ccccc"/>
