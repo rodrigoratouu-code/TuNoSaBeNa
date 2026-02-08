@@ -214,8 +214,6 @@
   <script>
     const videos = [
       "YSlpxMyVRbs",
-      "lAwl0db03pA",
-
     ];
 
     const videoGrid = document.getElementById("videoGrid");
@@ -225,7 +223,7 @@
       const div = document.createElement("div");
       div.className = "video";
       div.innerHTML = `
-        <div class="video-title">Escribe aquí el título</div>
+        <div class="video-title">resiclar baterias</div>
         <img src="https://img.youtube.com/vi/${id}/hqdefault.jpg" alt="Video preview">
         <div class="play-button">▶️</div>
       `;
