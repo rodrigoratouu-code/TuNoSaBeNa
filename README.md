@@ -198,7 +198,7 @@
   <h1 class="titulo-principal">TuNoSaBeNa</h1>
 </header>
   <section id="videos">
-    <h2>🎬 VideosRodri recomendados</h2>
+    <h2></h2>
     <div class="video-grid" id="videoGrid"></div>
   </section>
 
