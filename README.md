@@ -12,6 +12,7 @@
 <meta name="twitter:title" content="Mi Web Dans" />
 <meta name="twitter:description" content="Bienvenido a mi sitio web" />
 <meta name="twitter:image" content="https://rodrigoratouu-code.github.io/TuNoSaBeNa/imagen.jpg" />
+
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>TuNoSaBeNa</title>
