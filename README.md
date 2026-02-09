@@ -3,7 +3,7 @@
     <!-- Open Graph -->
 <meta property="og:title" content="Mi Web Dans" />
 <meta property="og:description" content="Bienvenidos a mi sitio web" />
-<meta property="og:image" content="https://rodrigoratouu-code.github.io/TuNoSaBeNa/AS.webp" />
+<meta property="og:image" content="https://rodrigoratouu-code.github.io/TuNoSaBeNa/as.webp" />
 <meta property="og:url" content="https://rodrigoratouu-code.github.io/TuNoSaBeNa" />
 <meta property="og:type" content="website" />
 
