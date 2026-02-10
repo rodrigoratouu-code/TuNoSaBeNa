@@ -7,20 +7,20 @@
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://rodrigoratouu-code.github.io/tuNoSaBeNa" />
+    <meta property="og:url" content="https://rodrigoratouu-code.github.io/TuNoSaBeNa" />
     <meta property="og:title" content="TuNoSaBeNa - ARIAS SERVICE" />
     <meta property="og:description" content="Bienvenidos a TuNoSaBeNa - Videos y contenido de ARIAS SERVICE" />
-    <meta property="og:image" content="https://rodrigoratouu-code.github.io/tuNoSaBeNa/as.webp" />
+    <meta property="og:image" content="https://rodrigoratouu-code.github.io/TuNoSaBeNa/as.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:site_name" content="TuNoSaBeNa" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:url" content="https://rodrigoratouu-code.github.io/tuNoSaBeNa" />
+    <meta name="twitter:url" content="https://rodrigoratouu-code.github.io/TuNoSaBeNa" />
     <meta name="twitter:title" content="TuNoSaBeNa - ARIAS SERVICE" />
     <meta name="twitter:description" content="Bienvenidos a TuNoSaBeNa - Videos y contenido de ARIAS SERVICE" />
-    <meta name="twitter:image" content="https://rodrigoratouu-code.github.io/tuNoSaBeNa/as.webp" />
+    <meta name="twitter:image" content="https://rodrigoratouu-code.github.io/TuNoSaBeNa/as.webp" />
 
     <title>TuNoSaBeNa</title>
     <style>
