@@ -354,6 +354,7 @@
 
     <script>
         const videos = [
+            { id: "GVf-JZdJjU8", title: "OPENCLAW es INCREÍBLE" },
             { id: "YSlpxMyVRbs", title: "Baterias 18650" },
             { id: "lAwl0db03pA", title: "🦞 openclaw.ai 🦞 " },
         ];
