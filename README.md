@@ -354,6 +354,7 @@
 
     <script>
         const videos = [
+            { id: "GvL_aKZhMjs", title: " electricista joven" },
             { id: "-RKlgpgY8-k", title: "creador de OpenClaw" },
             { id: "GVf-JZdJjU8", title: "OPENCLAW es INCREÍBLE" },
             { id: "YSlpxMyVRbs", title: "Baterias 18650" },
